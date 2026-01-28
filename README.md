@@ -2,7 +2,6 @@
 
 This project showcases the core logic behind a simple casino game. It’s designed as a reference implementation for learning and extending core casino functionality.
 
-🚀For an enhanced Crash game experience with advanced logic and modular design, explore our dedicated repo here: https://github.com/HyperBuildX/Crash-Game-FE
 
 🌐 **Live Demo**: [casino-seed.vercel.app](https://casino-muxin.vercel.app/)
 ![image](https://github.com/user-attachments/assets/09298dd7-8c46-467f-817d-0c12976226b3)
@@ -68,5 +67,5 @@ You're welcome to **enhance the interface** and update the visuals based on your
 
 If you have any questions or would like a more customized app for specific use cases, please feel free to contact us at the contact information below.
 - E-Mail: hyperbuildx@adamglab.dev
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
+- Telegram: [@David19922](https://t.me/@David19922)
 
